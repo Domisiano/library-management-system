@@ -1,0 +1,10 @@
+# Environment secrets
+api/.env
+api/.env.*
+!api/.env.example
+
+# Dependencies and generated files
+api/node_modules/
+api/dist/
+api/coverage/
+api/.nestjs/
